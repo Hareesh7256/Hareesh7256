@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hareesh7256
 - 👀 I’m interested in Automation and Promming Developer.
-- 🌱 I’m currently learning and working in SCADA screen develepment and Mendix studio pro.
+- 🌱 I’m currently learning and working as PLC & SCADA screen develepment and Mendix studio pro.
 - 💞️ I’m looking to collaborate on PLC , SCADA screen develepment and Front End Developer.
 - 📫 To reach me hareesh42982.as@gmail.com or Phone No: +91 8870744910.
 
