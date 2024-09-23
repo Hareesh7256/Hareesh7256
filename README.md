@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on PLC, SCADA screen development, and Front-End Development.
 - 📫 You can reach me at hareesh42982.as@gmail.com or Phone No: +91 8870744910.
 - 🎧 I’m an audiophile who loves listening to musicand am also a slight movie buff.
+- 🎨 My favorite color codes are: #b2e05b| (RGB: 178, 224, 91) and #222222 | (RGB: 34, 34, 34)
